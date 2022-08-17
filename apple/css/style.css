@@ -1,0 +1,11 @@
+.active{
+	background: white;
+    padding: 12px;
+    color: black;
+}
+a{
+	padding-right: 30px;
+	padding-left: 30px;
+	color: white;
+	text-decoration: none;
+}
